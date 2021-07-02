@@ -1,0 +1,3 @@
+C:/Users/SlayerQuestGames/CLionProjects/funcion01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SlayerQuestGames/CLionProjects/funcion01/cmake-build-debug/CMakeFiles/funcion01.dir
+C:/Users/SlayerQuestGames/CLionProjects/funcion01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
